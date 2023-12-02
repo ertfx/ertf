@@ -1,0 +1,6 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+title: Education Reform Task Force (ERTF)
+description: ERTF is a collaborative initiative dedicated to modernizing education through diverse stakeholder engagement, focusing on innovative, scalable, and effective educational models.
